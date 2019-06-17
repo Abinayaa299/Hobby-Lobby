@@ -1,5 +1,5 @@
 # Hobby Mate
-**Description**
+**Description:**
 A Website that connects people with similar hobbies together. And they can form groups and organise events related to their hobby.
 
 **Technologies:**
